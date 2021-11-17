@@ -7,10 +7,12 @@ website.
 
 To add a new shot locally, you must have [Python 3.x](https://www.python.org/downloads/) installed.
 
-Clone the repository : `git clone https://github.com/BrokenSwing/shots-dataset && cd shots-dataset`
+Clone the repository: `git clone https://github.com/BrokenSwing/shots-dataset && cd shots-dataset`
+
+Install dependencies: `pip install -r requirements.txt`
 
 ### Add a new shot
 
-To add a new shot, run the `new-shot.py` CLI : `python new-shot.py`
+To add a new shot, run the `new-shot.py` CLI: `python new-shot.py`
 
 Finally, make a PR.
