@@ -52,7 +52,7 @@ jobs:
           git commit -m "Update dataset"
 
       - name: Push to target repository
-        uses: ad-m/github-push-action@v2
+        uses: ad-m/github-push-action@master
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
           branch: 'ref/heads/prod'
