@@ -48,6 +48,7 @@ jobs:
       - name: Commit dataset
         run: |
           cd ${{ steps.download.outputs.download-path }}
+          git init
           git add .
           git commit -m "Update dataset"
 
