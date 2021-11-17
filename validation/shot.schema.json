@@ -1,0 +1,37 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12",
+  "$id": "https://dter-pour-un-shot.fr/shot.schema.json",
+  "title": "Shot",
+  "description": "Un shot de la carte",
+  "type": "object",
+  "properties": {
+    "name": {
+      "type": "string",
+      "description": "Le nom du shot"
+    },
+    "ingredients": {
+      "type": "array",
+      "description": "La liste des ingrédients du shot",
+      "items": {
+        "type": "string"
+      },
+      "uniqueItems": true
+    },
+    "description": {
+      "type": "string",
+      "description": "L'ID du shot (devrait être généré automatiquement)"
+    },
+    "alias": {
+      "type": "array",
+      "description": "Autres noms du shot",
+      "items": {
+        "type": "string"
+      }
+    },
+    "legacy": {
+      "type": "boolean",
+      "description": "Vrai si le shot n'existe plus"
+    }
+  },
+  "required": ["id", "name"]
+}

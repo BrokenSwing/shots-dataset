@@ -1,0 +1,26 @@
+name: CI/CD
+
+on: [push]
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Check out project
+        uses: actions/checkout@v2
+
+      - name: Set up Python 3
+        uses: actions/setup-python@v2
+        with:
+          python-version: '3.x'
+
+      - name: Generate dataset output
+        run: python generate.py
+
+      - name: Upload generated file
+        uses: actions/upload-artifact@v2
+        with:
+          name: dataset
+          path: ./output/shots.yml
+          retention-days: 1
