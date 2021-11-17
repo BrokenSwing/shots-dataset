@@ -3,9 +3,9 @@ name: CI/CD
 on:
   push:
     branches:
-      - *
+      - '*'
     tags:
-      - v*
+      - 'v*'
   pull_request:
 
 jobs:
