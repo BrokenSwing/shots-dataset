@@ -23,8 +23,8 @@ def create_shot(name: str):
         "ingredients": ingredients
     }
 
-    with open(f"shots/{slugify(name.strip())}.yml", "w") as shot_io:
-        dump(shot, shot_io, Dumper=Dumper)
+    with open(f"shots/{slugify(name.strip())}.yml", "w", encoding="utf-8") as shot_io:
+        dump(shot, shot_io, Dumper=Dumper, encoding="utf-8", allow_unicode=True)
 
 
 if __name__ == "__main__":

@@ -14,8 +14,7 @@
       "description": "La liste des ingrédients du shot",
       "items": {
         "type": "string"
-      },
-      "uniqueItems": true
+      }
     },
     "description": {
       "type": "string",

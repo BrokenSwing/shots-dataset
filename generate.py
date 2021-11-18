@@ -28,7 +28,7 @@ def load_yaml(path: str) -> dict:
     :param path: The path of the file
     :return: a dictionary representing the YAML
     """
-    with open(path, "r") as yaml_io:
+    with open(path, "r", encoding="utf-8") as yaml_io:
         return load_yaml_io(yaml_io, Loader=Loader)
 
 
@@ -130,8 +130,8 @@ def write_yaml(path: str, data: dict) -> None:
             if exc.errno != errno.EEXIST:
                 raise
 
-    with open(path, "w") as file:
-        dump_yaml(data, file, Dumper=Dumper)
+    with open(path, "w", encoding="utf-8") as file:
+        dump_yaml(data, file, Dumper=Dumper, encoding="utf-8", allow_unicode=True)
 
 
 def main():
