@@ -58,6 +58,6 @@ jobs:
         uses: ad-m/github-push-action@master
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
-          branch: 'ref/heads/prod'
+          branch: 'prod'
           directory: ${{ steps.download.outputs.download-path }}
           force: true
