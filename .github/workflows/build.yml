@@ -48,6 +48,8 @@ jobs:
       - name: Commit dataset
         run: |
           cd ${{ steps.download.outputs.download-path }}
+          git config --global user.email "fhugouvieux@gmail.com"
+          git config --global user.name "BrokenSwing"
           git init
           git add .
           git commit -m "Update dataset"
