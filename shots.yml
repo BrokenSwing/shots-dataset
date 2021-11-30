@@ -1,0 +1,1333 @@
+drinks:
+  00dae03a8dc045d6be803c47183ad154:
+    ingredients:
+    - Gin
+    - Rhum
+    - Curaçao
+    - Grenadine
+    name: La galoche
+  01d81c7a3fef4961848e9c153b2e727d:
+    ingredients: []
+    name: Mojito prestige
+  04768133458d401aa13af922d1df2914:
+    ingredients:
+    - Vodka
+    - Caramel
+    - Baileys
+    - Chocolat
+    name: Ptit déj
+  05a855670dcc4ce1b21ed44b3975373e:
+    ingredients:
+    - Tequila
+    - Absinthe
+    - Vodka
+    name: L'arnaque
+  0737cc46648940a2b6393120612afeea:
+    ingredients:
+    - Genepi
+    - Curaçao
+    - Sucre de canne
+    name: Alice Wonderland
+  07ec9019edec4e3192b250d901ecdd69:
+    ingredients:
+    - Amaretto
+    - Vodka
+    - Cerise
+    - Chantilly
+    name: Polypétasse
+  08c0e3c020f04b59984908500374347d:
+    ingredients:
+    - Armagnac
+    - Absinthe
+    - Piment
+    - Poivre
+    name: Pit Bull
+  08ea220caa05459487f64ff12c86af72:
+    ingredients:
+    - Rhum
+    - Vanille
+    - Passion
+    name: DT
+  09a3530f63214597997544382e2184f0:
+    ingredients: []
+    name: A partager
+  0aa51ec49a214ab7b48b26bc20a09342:
+    ingredients: []
+    name: Mojito classique
+  0abbde87e8d944c5bc3808e97a55513f:
+    ingredients:
+    - Kraken
+    - Melon
+    - Pêche
+    name: Don Pedro
+  0d47fdec3e9043dd9ee7a538d20c4077:
+    ingredients:
+    - Ricard
+    - Jager
+    name: Sam
+  102e3d2e5d884911a02759c54188c4ee:
+    ingredients:
+    - Apérol
+    - Grappa
+    - Gingembre
+    name: Rocco
+  102e9f32ddf647f08f39bc392696e35a:
+    ingredients:
+    - Armagnac
+    - Vodka black
+    name: Dark Vador
+  1049fb66247e4d66a3150416a62076e0:
+    ingredients:
+    - Ricard
+    - Vodka
+    - Curaçao
+    name: C'est Marseille bébé
+  10f6d869cdd14858af444e9fb476d14a:
+    ingredients: []
+    name: Dolce Vita
+  1150506e6a3a4235925f83590906f201:
+    ingredients:
+    - Captain Morgan
+    - Cachaça
+    - Absinthe
+    name: Alex
+  134e1d9f4e024c1bbeb14b5c1e8e51d1:
+    ingredients:
+    - Gin
+    - Malibu coco
+    - Cranberries
+    name: Sexe à pile
+  15812f642bf845f4858998a42da5e958:
+    ingredients: []
+    name: Marseillais
+  15e136cb2db946c18ca38181277bc7f9:
+    ingredients:
+    - Absinthe
+    - Curaçao
+    - Ginger
+    - Mangue
+    - Banane
+    name: Schtroumfresh
+  166e2954f5124930948a7b8851058cd9:
+    ingredients:
+    - Curaçao
+    - Absinthe
+    - Pêche
+    - Bonbon
+    name: La blue
+  16c6137563714b6dbe8612daeea830f3:
+    ingredients: []
+    name: Isaikei
+  1768e666e2fa4ab9ac7ad3e25ea4938d:
+    ingredients:
+    - Armagnac
+    - Liqueur de pêche
+    - Limonade
+    name: Le grognard
+  176ff845b79a4612b2b132a564fda5cf:
+    ingredients:
+    - Malibu coco
+    - Mezcal
+    - Ananas
+    name: Fleur tropicale
+  185b4ef39d704fd4bb403ede3a48ab1a:
+    ingredients: []
+    name: Frigoriste !!!
+  192763d113b24a4d89e91658bc9e476b:
+    ingredients: []
+    name: Double péné
+  1affb88ee27a4a5293ad31c6262aabb3:
+    ingredients:
+    - Rhum brun
+    - Orgeat
+    - Citron
+    - Cannelle
+    - Ginger beer
+    name: Spicy punch
+  1b7b31272d594437b75580c3c7e349a0:
+    ingredients:
+    - Liqueur de melon
+    - Angostura
+    - Liqueur de litchi
+    name: Hydrocele
+  1c77574385d243ed895d85737a985ffb:
+    ingredients:
+    - Génépi
+    - Whisky
+    - Marre de café
+    name: Trace de pneu
+  1c8bae6551e74ceb8f7af9a2af318c86:
+    ingredients:
+    - Cachaça
+    - Gin
+    - Mangue
+    - Orange
+    - Citron
+    name: Raizurection
+  1ceef77ade754906b8d52ad73a9ad6c7:
+    ingredients:
+    - Soho
+    - Saké
+    - Liqueur de rose
+    name: La Chinoiseriz
+  1d759775b7a5463eb972250670139512:
+    ingredients:
+    - Kraken
+    - Vodka black
+    - Grenadine
+    - Tabasco
+    name: No way
+  1ddc9e5200f64ca4a3f61869b65b167a:
+    ingredients:
+    - Mezcal
+    - Vodka
+    - Citron
+    - Tabasco
+    - Paprika
+    name: Cactus
+  1e14d8c2fd184cf68284896d07d03bd5:
+    ingredients:
+    - Gin
+    - Citron
+    - Manzana
+    - Absinthe
+    - Basilic
+    name: Gin te nique
+  1e92c91f621e4ca8ad961e3d3f2aa0d9:
+    ingredients:
+    - Balantine
+    - Liqueur de caramel
+    - Sirop d'érable
+    name: Waffle shot
+  1ef45083354648f6ba812f044851f797:
+    ingredients:
+    - Baileys
+    - Liqueur de violette
+    - Chocolat
+    name: Milka
+  1f1f529decc94b939bd933ff5d19b859:
+    ingredients: []
+    name: Will Hunter
+  20a51d237d074e38833c7ac0ec58a5d7:
+    ingredients:
+    - Liqueur de caramel
+    - Absinthe
+    - Citron
+    name: Pipi de chatte
+  22034694d1304d659c88841d69737608:
+    ingredients:
+    - Get31
+    - Liqueur de violette
+    - Absinthe
+    name: Destination Satap
+  222c44fba7964e04be59b99d2f3554a4:
+    ingredients: []
+    name: Jaegerito
+  233884f420b3483caaa6adac5c5306b4:
+    ingredients:
+    - Triple sec
+    - Vodka
+    - Orgeat
+    name: Gel alcolo alcolique
+  25b9c155023d4de5b098c866af7659f9:
+    ingredients:
+    - Amaretto
+    - Vodka
+    - Cerise
+    name: Ma cherry
+  25d9791528354186a83f85b3106e7f16:
+    ingredients:
+    - Limoncelo
+    - Absinthe
+    - Limonade
+    name: Doliplane
+  25e16aaf8a3549f49d48447478550a16:
+    ingredients:
+    - Zubrowska
+    - Piment
+    - Whisky
+    name: Le bison
+  25f9749c73fd4b78a8059a5034b45362:
+    ingredients:
+    - Vodka black
+    - Absinthe
+    - Triple sec
+    - Liqueur de rose
+    name: Mehdi !!
+  26d480e0993140d087fa3fbdecb7d4cd:
+    ingredients:
+    - Jager
+    - Ricard
+    - Piment
+    name: Destop
+  29a170d5f431428a8ef5b15b51de6620:
+    ingredients:
+    - Rhum
+    - Tequila
+    - Citron
+    - Poire
+    name: Nibarbar
+  2a69f146f41746498e830aa88b0e8b39:
+    ingredients:
+    - Ginger
+    - Citron
+    - Rhum vieux
+    name: Tarantino
+  2bbc6bf2ef0247daac38defce551d815:
+    ingredients:
+    - Armagnac
+    - Amaretto
+    - Gin
+    name: Napoléon
+  2bfbf737ef754d0fbad059375ea8b1cd:
+    ingredients:
+    - Get31
+    - Vodka
+    - Curaçao
+    name: Valda
+  2da8ebb9205d4fffbc1392b9870f7e8b:
+    ingredients:
+    - Don papa
+    - Liqueur de caramel
+    name: Werthers
+  2e1c1a52cf9e46bf92a2a4ac5c08cf0f:
+    ingredients:
+    - Liqueur de caramel
+    - Rhum piment
+    - Tabasco
+    name: Isouuuuuu
+  2e2e2a54fa1a474d99a56331ac821ca0:
+    ingredients: []
+    name: Malivin'o
+  3395fbe3e82841fe8857077c2285494f:
+    ingredients:
+    - Chartreuse
+    - Génépi
+    - Get27
+    name: Le savoyard
+  3409402fcc7340538f7a5e2cec1391f9:
+    ingredients: []
+    name: Braguette
+  35657ff16eff4487b246e5b59e954845:
+    ingredients:
+    - Vanille
+    - Rhum
+    - Amaretto
+    name: Célia
+  3834fcbc08924b4e966e8b6c3594d6de:
+    ingredients:
+    - Mirabelle
+    - Saké
+    - Ouzo
+    name: KO technik
+  383eca9fd59149d28f1467a18f24c683:
+    ingredients:
+    - Rhum
+    - Liqueur de café
+    - Liqueur de pêche
+    name: Tyson
+  39a607b670d3430bba80dea963342197:
+    ingredients:
+    - Liqueur de caramel
+    - Jack miel
+    - Coca
+    name: Diabète
+  3af022d57ec14fc29ad9b74799d2bbaa:
+    ingredients:
+    - Ricard puzo
+    - Absinthe
+    - Orgeat
+    name: La mort-esque
+  3b31ad14efd441e9bf0179c75ae15b6d:
+    ingredients:
+    - Don Papa
+    - Absinthe
+    - Banane
+    name: Philippin
+  3b998243f46643568783046374d1565b:
+    ingredients:
+    - Get27
+    - Absinthe
+    - Baileys
+    name: Bris-tôle
+  3cc4f78453024147884a78d1f1a1a40f:
+    ingredients:
+    - Schweeps
+    - Limonade
+    name: Vaccin H1N1
+  3d7835aae9c842f18b7e484c4b05a9a8:
+    ingredients:
+    - Vodka
+    - Absinthe
+    - Citron
+    - Canelle
+    name: Kalach
+  3e31b86ab9bd4ec28d4068cd03eab91f:
+    ingredients: []
+    name: Samba de Janeiro
+  3e815500b12b4558b6ab1274e749fdb0:
+    ingredients:
+    - Amaretto
+    - Martini blanc
+    - Apérol
+    name: Mafieu
+  3fe3dc6e3bd64f8f9d2f7c04e0c9698b:
+    ingredients:
+    - Ouzo
+    - Absinthe
+    - Curaçao
+    name: Mikonoss
+  40c2ae3e15394422885aba6234788386:
+    ingredients:
+    - Liqueur de rose
+    - Gin
+    - Curaçao
+    name: Lucky day
+  41848a8448ca4f20a0eff6821a103e7a:
+    ingredients:
+    - Vodka
+    - Jager
+    - Gingembre
+    - Citron
+    name: Pierette en levrette
+  42e1a2a6209d4a428c4999f638e10589:
+    ingredients:
+    - Get31
+    - Absinthe
+    - Grenadine
+    name: Ange et Démon
+  444efae989c34a65b637794de289395e:
+    ingredients:
+    - Vodka
+    - Baileys
+    - Vodka black
+    - Absinthe
+    name: Molotov
+  44945c25d39d47678ad8efb8fcdfc599:
+    ingredients: []
+    name: Mojito fruité
+  478d6e137bf842deb935f770ccc4bea1:
+    ingredients:
+    - Kraken
+    - Captain Morgan
+    - Passion
+    name: Jack Sparrow
+  483902b1a11c4409b2e12a245d935208:
+    ingredients:
+    - Armagnac
+    - Cachaça
+    - Absinthe
+    - Ballentine
+    name: ACAB
+  49d90f98e8f445e7b65be8982f784fd0:
+    ingredients:
+    - Gin
+    - Vin rosé
+    - Fruit rouge
+    name: Le Jean serré
+  4ac191edfe0f4c7eaade1f9954c66938:
+    ingredients: []
+    name: Virgin mojito
+  4acf4180e291458eb9dcb3b30f773a63:
+    ingredients: []
+    name: Café russe
+  4b1aa0923200496d931860579dffec3f:
+    ingredients:
+    - Vodka
+    - Jager
+    - Crazy tiger
+    - Citron
+    name: Frèrus
+  4befc932d58e47ff98652fc9d5b7aefb:
+    ingredients:
+    - Jager
+    - Crazy tiger
+    name: Jager bomb
+  4de4558fe3164f3f94f82c85b9a4ffc8:
+    ingredients:
+    - Vodka
+    - Get27
+    - Herbe de provence
+    name: Pute de gazon
+  4fab62b98f654457ba97883f24841509:
+    ingredients:
+    - Absinthe
+    - Rhum piment
+    - Manzana
+    name: Déglotteur
+  52321522f45b4b5e9413beac71c57f57:
+    ingredients:
+    - Gin
+    - Absinthe
+    - Banane
+    name: GHB
+  5275aadaae894c08a554b28ce3df1d0b:
+    ingredients:
+    - Saké
+    - Absinth
+    - Piment
+    - Fraise
+    name: Bisou du dragon
+  5416968921824b26a783621fd471d802:
+    ingredients:
+    - Jager
+    - Captain Morgan
+    - Liqueur de banane
+    name: Malaise blaise
+  54a8a88ba03540549986e8cbbfb1d5cf:
+    ingredients: []
+    name: ASM Clermont
+  56b5f934a2cf4ab683bf11f5432ab152:
+    ingredients:
+    - Jus de litchi
+    - Soho
+    - Saké
+    name: Kung-Fu
+  58019d97a24c46d8b3a5218785b7fa53:
+    ingredients:
+    - Amarello
+    - Don papa
+    - Caramel
+    - Citron
+    name: Puffien
+  59183eaeabbb4716a0ac1bee942e105b:
+    ingredients:
+    - Whisky
+    - Orgeat
+    - Angostura
+    name: La douloureuse
+  5923f12bb9514c5f9ea18ed2b15d898a:
+    ingredients:
+    - Kraken
+    - Vodka black
+    - Cerise
+    name: Black pearl
+  5b1b31e7c2f04944a89c506f4f816e55:
+    ingredients:
+    - Génépi
+    - Absinthe
+    - Ricard
+    - Citron
+    name: Ti-bof
+  5b22613e89974237a1c0ddcaa3ec0d58:
+    ingredients:
+    - Liqueur de rose
+    - Absinthe
+    - Gingembre
+    name: Pacs
+  5b42056a6f6a40edae26e0c133b36f01:
+    ingredients:
+    - Génépi
+    - Téquila
+    - Thé chaï
+    name: La tisane
+  5ee707006e6047d69cf1f4642f1f3ef8:
+    ingredients:
+    - Gin
+    - Menthe
+    - Fraise
+    name: MST
+  6029d407f2574af49110f4094467438a:
+    ingredients:
+    - Triple sec
+    - Manzana
+    - Citron
+    name: Traknar
+  6423c39896e24d53b9ff865ca1da0c0d:
+    ingredients: []
+    name: Fist
+  670df81678de49b48d9de8dcea1490d9:
+    ingredients:
+    - Jack Daniels
+    - Amaretto
+    - Citron
+    - Pomme
+    - Sirop d'érable
+    name: Broadway
+  68a45467c79b4a98909d51fc1a27513c:
+    ingredients: []
+    name: K1ry
+  6ac3a0d5a26a4c348ecef4922f805ee5:
+    ingredients:
+    - Gingembre
+    - Kraken
+    - Ananas
+    name: Golfeur
+  7121f9d3395146bb9cfc1480c4fc95f8:
+    ingredients:
+    - Don papa
+    - Armagnac
+    - Vin rosé
+    name: Le bon, la brute, le truand
+  71d7345e9cb844a09da65a887648c81f:
+    ingredients:
+    - Liqueur de café
+    - Baileys
+    - Chantilly
+    name: Blow job
+  724d649db1ce4beea33c5f51a574e4d1:
+    ingredients:
+    - Suze
+    - Ricard
+    - Amaretto
+    name: P-V
+  7423f708eebf4e09bcbafa34cfd076ac:
+    ingredients:
+    - Génépie
+    - Rhum
+    - Litchi
+    - Passion
+    name: La gueuz
+  744420ca0ca645cc9227181354e8d8f0:
+    ingredients:
+    - Jager
+    - Bière
+    name: Fürer
+  747aac522a2b4afeb4953a1f3704d2da:
+    ingredients:
+    - Violette
+    - Gingembre
+    - Limoncelo
+    name: La vie en violet
+  74eddcecaa374946874e16addab5dff9:
+    ingredients:
+    - Cachaça
+    - Curaçao
+    - Absinthe
+    name: Bombone
+  79ac3597163845aa8ed3f9a7dc468b04:
+    ingredients:
+    - Suze
+    - Red-bull
+    name: Suze bull
+  7aaa0e185ef6483f80769947dc89bf79:
+    ingredients:
+    - Génépi
+    - Noisette
+    - Vodka
+    name: La loutre
+  7be2e0d48f0a4b679a6407c07f3b4652:
+    ingredients:
+    - Kraken
+    - Diplomatico
+    - Citron
+    name: Triangle des bermudes
+  7ead916617f9451a92d2c7c535ceee5e:
+    ingredients:
+    - Sake
+    - Liqueur de caramel
+    - Litchi
+    name: Boucle d'Orient
+  8251c013e78b4ac4972cdbcc9d4f26e5:
+    ingredients:
+    - Saké
+    - Absinthe
+    - Orange
+    - Tabasco
+    - Tabasco
+    - Tabasco
+    name: Cintass
+  82f50e8e38144a3aa23cbae20683408d:
+    ingredients:
+    - Amaretto
+    - Vodka
+    - Pamplemousse
+    name: Uppercut
+  82fc70fd2b9c4cfd871d5eb7318483ca:
+    ingredients:
+    - Saké
+    - Piment
+    - Thé chaï
+    name: Acuponcture
+  83c4bdbfaa3e43cda2fce2d8ec4f4fd9:
+    ingredients:
+    - Jager
+    - Captain Morgan
+    - Manzana
+    name: Tchoupi
+  853e67fa8f474c1c8a51fa8404a75878:
+    ingredients:
+    - Tout ce qui me passe sous la main
+    name: Le 06/09/2019
+  862315bce4234983ac7646bd216c9dd3:
+    ingredients:
+    - Malibu
+    - Vodka
+    - Miel
+    - Orange
+    name: Poly 30
+  87708a8b3cea4b86b2d3fb71d90641c3:
+    ingredients:
+    - Baileys
+    - Vodka
+    - Curaçao
+    name: Allezzz l'OM !!!
+  8b1dd678a63c4462b00e55a9435a77d9:
+    ingredients:
+    - Grappa
+    - Cramberies
+    name: Lèche moi la grappa
+  8b755dbaa6914b7682e94f659672e77e:
+    ingredients:
+    - Tequila
+    - Apérol
+    - Baileys
+    - Grenadine
+    name: Césarienne
+  8c35c39e417d4563aef387d5fddc6de9:
+    ingredients:
+    - Vodka black
+    - Liqueur de café
+    - Absinthe
+    - Jager
+    - Rhum piment
+    - Guiness
+    - Poivre
+    name: Roulette russe
+  8e5f46ac329e44edbf6247981a8718ad:
+    ingredients:
+    - Vodka
+    - Get31
+    - Cerise
+    - Basilic
+    name: Raspoutine
+  8ffda954fc5d482cb869bec2a3def8a7:
+    ingredients:
+    - Mezcal
+    - Kraken
+    - Citron
+    name: Virus
+  922e3e878d19435d849f4bbd6654d218:
+    ingredients:
+    - Poire
+    - Passion
+    - Gingembre
+    name: Zouk
+  944a1ef223824f4c878c4e7d2c29fe3e:
+    ingredients:
+    - Get27
+    - Absinthe
+    - Liqueur de pêche
+    name: A la bordelaise
+  9458d65911e2429aa87c94e781b85084:
+    ingredients:
+    - Rhum
+    - Baileys
+    - Liqueur de melon
+    - Fraise
+    name: Le Joker
+  94aafabb90a94bce81087073ec027a57:
+    ingredients:
+    - Absinthe
+    - Curaçao
+    - Triple sec
+    - Grenadine
+    name: Champion du monde
+  94d8f9c0ebbe4682b64572ca18f3139c:
+    ingredients:
+    - Téquila
+    - Mescal
+    - Ginger
+    - Citron
+    - Sel
+    name: Polytechpaf
+  952870c8c82d484f8a9bddb139c8a3a2:
+    ingredients:
+    - Mézcal
+    - Jack Daniels
+    - Grenadine
+    name: Genorimooooh
+  96655f15c6254f15822edd97218e9d0d:
+    ingredients:
+    - Vodka
+    - Liqueur de banane
+    - Orange
+    - Cramberry
+    - Passion
+    name: Loony flamengo
+  968af27cebbd4eac9aed535d6de7c164:
+    ingredients:
+    - Tequila
+    - Grenadine
+    - Passion
+    name: Escobar
+  968d4820e7a74d5988b4afa658c56a1f:
+    ingredients:
+    - Balantin
+    - Amaretto
+    - Muscat
+    name: Psychotrope
+  976148a8def4439b8eb9789a25dee0d3:
+    ingredients:
+    - Jager
+    - Liqueur de café
+    - Canelle
+    name: Mégot
+  9c39792dbb50402a9411a441d0c711ce:
+    ingredients: []
+    name: Mojito Rose
+  9ca245438c4c40faa9e73261f5617d50:
+    ingredients:
+    - Gin
+    - Absinthe
+    - Amaretto
+    - Orgeat
+    - Citron
+    name: Soumsoum
+  9d0022a48b9e4c6992d98c2fe18461c9:
+    ingredients: []
+    name: Maanchaft
+  9dc8b9bdc93e40cc89c6210fc3ed2627:
+    ingredients:
+    - Liqueur de pêche
+    - Curaçao
+    - Bière
+    name: Montpellierain
+  9df887c1e6f64fb4acea12f9876692b1:
+    ingredients:
+    - Gin
+    - Martini blanc
+    - Limoncelo
+    - Schweeps
+    name: Ouh mama !!
+  9f180ab0eeca445aa0990467d4416d65:
+    ingredients:
+    - Vodka
+    - Liqueur de melon
+    - Litchi
+    - Jus d'ananas
+    - Cramberries
+    name: Fresh rivera
+  a04d178d31764539a31244abb5897346:
+    ingredients:
+    - Get27
+    - Baileys
+    name: Orgasme
+  a0f6fa66fb2c4b99a55f73c6e0afbbcc:
+    ingredients:
+    - Banane
+    - Tabasco
+    - Clan campbell
+    name: Bataclan
+  a147c98494064ad9aab7e9606f990544:
+    ingredients:
+    - Vodka
+    - Saké
+    - Citron
+    - Cassonade
+    name: Kamikaze
+  a2683e83c83c489c90ffcf57371a07bf:
+    ingredients:
+    - Ginger
+    - Canelle
+    - Ricard
+    name: Tricard
+  a315361803a24d53ac40693248b745ef:
+    ingredients:
+    - Vodka
+    - Baileys
+    - Fraise
+    name: Formol
+  a3c9dc36bea1438185acf148a94683b1:
+    ingredients: []
+    name: Dodojiroto
+  a77046ce8a9444a2b573cbedc6720dc8:
+    ingredients:
+    - Téquila
+    - Vanille
+    - Noisette
+    name: So Annsooo
+  a924d1d6b796436faff1ba14096849c4:
+    ingredients:
+    - Rhum
+    - Get27
+    - Chartreuse
+    name: R'inté
+  a96ae168c87945bda358837363ed45cf:
+    ingredients: []
+    name: Ohana
+  ab4f52fd2dc74d44b8f3e5cc435efd9a:
+    ingredients:
+    - Whisky
+    - Caramel
+    - Fraise
+    name: L'imposteur
+  ada1986b9c2946bfa5e20d118010625c:
+    ingredients: []
+    name: Plaisir solitaire
+  af11608d31ec49f89e196fe22de9a3c5:
+    ingredients:
+    - Une bonne euthanasie !!
+    name: Hugo Délir
+  b1c1a0a0c5384060b4d7c11493b7856c:
+    ingredients:
+    - Armagnac
+    - Grenadine
+    name: Scalpel
+  b1cbc84774f947e896f46c4c8a16f796:
+    ingredients:
+    - Rhum piment
+    - Armagnac
+    - Citron
+    - Bière
+    name: Piton de la Fournaise
+  b24c367c217d4101a1f10393fb5032fb:
+    ingredients:
+    - Whisky
+    - Gin
+    - Tequila
+    name: Hiroshima
+  b47cb5af21524c1191d63a6d938a9a3f:
+    ingredients:
+    - Diplomatico
+    - Liqueur de rose
+    - Liqueur de mirabelle
+    name: Le verre-saillai
+  b598126497664c50a8dd130b9ab02d10:
+    ingredients:
+    - Liqueur de rose
+    - Liqueur de mirabelle
+    - Absinthe
+    - Ouzo
+    - Vodka
+    - Saké
+    name: La partouze
+  b5eb7d91e2414bbea6a20ab00ddedc89:
+    ingredients: []
+    name: Retour de Dublin
+  b624752f5cb34c8ebfdc676b5316eed9:
+    ingredients:
+    - Absinthe
+    - Saké
+    - Jager
+    - Vodka
+    - Schweppes
+    name: John-Luka sec
+  b6498ebdbed5470cbe38b0da338dd89d:
+    ingredients:
+    - Génépi
+    - Gin
+    - Baileys
+    name: Smectarace
+  b783897914e244fd8f2c53b426ddbe8b:
+    ingredients:
+    - Grenadine
+    - Vodka
+    - Pêche
+    - Rhum
+    - Mangue
+    - Apérol
+    - Melon
+    name: Challenge me
+  b8254d00a6774539ac1b86a76a10d6a1:
+    ingredients:
+    - Armagnac
+    - Liqueur de banane
+    - Amaretto
+    name: Donkey punch
+  bcb0ed241bd04a69aae075b4e4b456a6:
+    ingredients:
+    - Vodka
+    - Vodka black
+    - Mangue
+    - Fraise
+    name: Exotique siberian
+  bccd37c7300347d8880f8eb47591cba7:
+    ingredients:
+    - Curaçao
+    - Téquila
+    - Gin
+    - Citron
+    name: Tortank
+  bd66cedc93904ac484023eeef4c0cd9c:
+    ingredients:
+    - Wasabi
+    - Liqueur de melon
+    - Saké
+    name: Wa ça pikke
+  bd74bf13f38b478db4a6fbe4229b08ba:
+    ingredients:
+    - Rhum
+    - Piment
+    - Absinthe
+    - Saké
+    name: PLS
+  bf2aadbd0eb34f94929b93477e5c08f1:
+    ingredients:
+    - Tequila
+    - Cachaça
+    - Mangue
+    name: Soy Del Sol
+  c45ca481ae7c4b0ab9c71b2078d68683:
+    ingredients:
+    - Jus de passion
+    - Rhum piment
+    - Get31
+    - Curaçao
+    name: Chok Thermik
+  c59047b18a1540d9b9ef6d3803f0bb96:
+    ingredients:
+    - Guiness
+    - Vodka
+    - Jager
+    - Poivre
+    name: Ass hall
+  c5fd94e0eff444e9b318129609630074:
+    ingredients:
+    - Rhum
+    - Sirop de noisette
+    name: Casse noisette
+  c6c84360d5dd49b4a6fb450db00cc533:
+    ingredients:
+    - Gin
+    - Martini
+    - Don Papa
+    - Pamplemousse
+    name: Balaruquoiiiii ?!
+  c7ecdbda3a90472b97f292e1ea440bd1:
+    ingredients:
+    - Vodka black
+    - Vodka
+    - Grenadine
+    name: Louboutchoin
+  ca00c6e22fcc482da915df66e12a8d0a:
+    ingredients:
+    - Suze
+    - Armagnac
+    - Framboise
+    name: Consanguin
+  ca4036d2c0074a8fbc5ef8cf8a820382:
+    ingredients:
+    - Apérol
+    - Banane
+    - Get27
+    - Vodka
+    - Curaçao
+    - Liqueur de violette
+    - Jager
+    name: Pink floyd
+  cdbb63c7dce843b4a36dea151325202b:
+    ingredients:
+    - Zeste de citron
+    - Gin
+    - Rose
+    name: ZIG
+  cefa76a2be5b438b86c38515e6ca9b14:
+    ingredients:
+    - Curaçao
+    - Cachaça
+    - Rhum vieux
+    - Tequila
+    name: Morphine
+  d06aa639c1c54f2a804984e2a5714838:
+    ingredients:
+    - Saké
+    - Rhum
+    - Citron
+    name: Anesthésie
+  d0e654f3e4b94398bf4227edae001c36:
+    ingredients:
+    - Rhum ambré
+    - Coco
+    - Banane
+    - Citron
+    name: Douceur des îles
+  d176bc69f0d84139ada2b48adfdeeed7:
+    ingredients:
+    - Baileys
+    - Gin
+    - Balantine
+    name: Brexit
+  d1f872344c5448afabec6ae9c7fd26ee:
+    ingredients:
+    - Liqueur de litchie
+    - Liqueur de melon
+    - Canelle
+    name: C carré
+  d2d36b1bdcbf427596322996bd868deb:
+    ingredients:
+    - Whisky
+    - Miel
+    - Canelle
+    - Baileys
+    - Lait
+    name: Qu'est-ce qu'il est
+  d3a38ec39eb645aab6b63a97215dbdbb:
+    ingredients:
+    - Liqueur de banane
+    - Absinthe
+    - Canelle
+    name: Banane flambée
+  d3f247620d55462ba6c82c0c8848b36b:
+    ingredients:
+    - Triple sec
+    - Suze
+    - Absinthe
+    name: Médiator
+  d4983ce11c1f4c7ba8271e1b992c9842:
+    ingredients:
+    - Kiwi
+    - Tequila
+    - Vodka
+    - Citron
+    name: Pakiwi'to
+  d54a3ff9d0df4c81b78f1959c4324964:
+    ingredients:
+    - Vin rosé
+    - Liqueur de pomme
+    - Liqueur de litchi
+    name: Bukkake
+  d6b8acb85ad2466191bab065f17e3a26:
+    ingredients:
+    - Liqueur de café
+    - Baileys
+    - Triple sec
+    - Glaçons
+    name: B53
+  d7544d3310c34ebab7440cb5decd9440:
+    ingredients:
+    - Vodka
+    - Grenadine
+    - Tabasco
+    name: Chuck Norris
+  d75dbdc323404790b8115887bd5847a8:
+    ingredients:
+    - Grenadine
+    - Rhum
+    - Passion
+    - Liqueur de lemon
+    name: Rasta shot
+  d7a447e85fad4fdca5a906c7d3c1497c:
+    ingredients:
+    - Liqueur de pêche
+    - Liqueur de pomme
+    - Liqueur de banane
+    - Liqueur de coco
+    - Liqueur de litchi
+    name: 5 fruits par jour
+  d83d669ad9234b7ca339ba288d2839b8:
+    ingredients:
+    - Vin rouge
+    - Armagnac
+    - Piment
+    name: La pikette ki pikotte
+  d9cb610513ed4d9fa29f5458feac3786:
+    ingredients:
+    - Armagnac
+    - Manzana
+    - Absinthe
+    - Pulco
+    name: Goliathe
+  da3651f6214743f09535114d41fab35b:
+    ingredients:
+    - Armagnac
+    - Liqueur de melon vert
+    name: Branlette espagnole
+  de49e1988494460da926ebc83ca09f59:
+    ingredients:
+    - Litchi
+    - Pomme
+    - Tabasco
+    name: Pistolet à bille
+  ded04cf56af746f9a6719b56e3725519:
+    ingredients: []
+    name: Sweety Lili
+  e2ce43fcdffc471ea9537e5999bb62ea:
+    ingredients:
+    - Rhum
+    - Passion
+    - Ananas
+    - Grenadine
+    name: Bora-bora
+  e32b6ac5373443d4a1dd9b81e6ec8367:
+    ingredients:
+    - Jager
+    - Liqueur de rose
+    name: Less boss
+  e350a4e34692411b8e82fca61c47e8e8:
+    ingredients:
+    - Manzana
+    - Triple sec
+    - Sirop d'érable
+    name: Tabernak
+  e6387e8e0f304e7487e9cf9201fd57bc:
+    ingredients:
+    - Vodka
+    - Grenadine
+    - Mangue
+    - Get
+    name: Ethylotest
+  e749978e0d9d41238354da713d04fdbf:
+    ingredients: []
+    name: Mojito Noisette
+  e83a4cd44e9f412b8f9bbb7e8fdfaffd:
+    ingredients:
+    - Liqueur de caramel
+    - Vodka
+    - Canelle
+    name: Eurékanel
+  e856c7849091495490218c653030cf31:
+    ingredients:
+    - Liqueur de banane verte
+    - Ricard
+    name: Le cornichon
+  e892a327373f4bdfa473d1c9c1f6a127:
+    ingredients:
+    - Jack Daniels
+    - Don papa
+    - Liqueur de caramel
+    - Citron
+    name: Salvatrucha
+  ec1b3af23d934af0833ff76320ad4c94:
+    ingredients:
+    - Liqueur de rose
+    - Liqueur de pêche
+    name: M1
+  ec74c6ed35ba4ab3bf1de06c4cdd344d:
+    ingredients:
+    - Vodka
+    - Fraise
+    - Liqueur de mangue
+    name: Orgasme de Marie
+  ed317067840e4396b93a6b7aeb208634:
+    ingredients:
+    - Baileys
+    - Liqueur de caramel
+    - Poire
+    name: Prothèse sa mère
+  ed60c371736c4ddc832b3761d1dccd69:
+    ingredients: []
+    name: Mojito cubain
+  f0b521ad88794a53a50283c8adfb66a2:
+    ingredients: []
+    name: Nimois
+  f0dca3ece7a04e7394a7f39ed0c84a02:
+    ingredients:
+    - Rhum piment
+    - Ginger
+    - Liqueur de banane
+    - Canelle
+    name: Viagra
+  f148a54d97904cd1994a9c4c46f803e9:
+    ingredients:
+    - Rhum
+    - Genepi
+    - Pomme
+    - Poire
+    - Gingembre
+    name: Cool rasta
+  f193e7566b3d47c294465e1f6332c38d:
+    ingredients:
+    - Vanille
+    - Ananas
+    - Coco
+    - Rhum
+    name: Manuia
+  f291e4b18d31421d988880077a1220a3:
+    ingredients:
+    - Rhum vieux
+    - Tequila
+    - Gingembre
+    name: Bois bandé
+  f33d066bca25483f83e64e8780ff2431:
+    ingredients:
+    - Liqueur de rose
+    - Gin
+    - Manzana
+    name: Ivre d'amour
+  f3ae8450388e4354b93ea57a2592c805:
+    ingredients:
+    - Rhum
+    - Passion
+    - Citron
+    name: Zak missile
+  f5acce3afe114b5687d15f2fc3d61e74:
+    ingredients:
+    - Kraken
+    - Vodka
+    - Cramberrie
+    - Vanille
+    - Rhum
+    name: Purple by Sarah
+  f5b566ee255048579dfe146916f2b754:
+    ingredients:
+    - Saké
+    - Suze
+    - Thé chaï
+    name: Saké Hubert
+  f6ee2b9b3d3e4476aa2bf5ec2bd4ce34:
+    ingredients:
+    - Téquila
+    - Liqueur de café
+    - Paprika
+    - Poivre
+    name: Vodoo
+  f7931e47c15e4944a706e3c61ca29f55:
+    ingredients:
+    - Armagnac
+    - Liqueur de pêche
+    - Limonade
+    name: El padrè
+  f872126533414755b0323d19f3edfa61:
+    ingredients:
+    - Vodka
+    - Liqueur de caramel
+    - Fraise
+    name: Le cunnilingus
+  f8fedec4e4f549e080afbecfeb0b72c4:
+    ingredients:
+    - Vodka
+    - Rhum
+    - Framboise
+    name: Descente d'organe
+  f9caac2279a145d69f03cf0986e36926:
+    ingredients:
+    - Vodka
+    - Liqueur de pêche
+    - Framboise
+    - Passion
+    name: AD sur la beach
+  fa2381b79c24434f801b62313210e5dd:
+    ingredients:
+    - Rhum
+    - Canelle
+    - Citron
+    - Orgeat
+    name: Pain d'épice
+  fa97d78a3bb74421925713234bd12c2a:
+    ingredients:
+    - Balantine
+    - Liqueur de café
+    - Triple sec
+    name: Cow boy
+  fbe9d9c98efd49588f71f4e1ffd144e1:
+    ingredients:
+    - Captain Morgan
+    - Liqueur de pêche
+    - Pomme
+    - Poire
+    name: Captain flemme
+  fdc98014456d429886d3c78f395302f4:
+    ingredients:
+    - Baileys
+    - Amaretto
+    - Ananas
+    name: Madeleine havraise
+  ff96643e62f1454896145af0a2ebcceb:
+    ingredients:
+    - Vodka
+    - Tequila
+    - Curaçao
+    - Sucre en poudre
+    name: Cocaïne liquide
+  ff990469f80146169bd639e8b9311289:
+    ingredients:
+    - Martini blanc
+    - Basilic
+    name: Marre qu'il nic
+  ff9c1939c5fd47a58769d08610d30aed:
+    ingredients:
+    - Gingembre
+    - Vanille
+    - Rhum
+    name: Biflette d'Aguero
